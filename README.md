@@ -18,7 +18,8 @@ and do not rely on other files in the directory.
 
 I have relied on python turtle graphics in order to create these animations. I find that this specific module allows me to 
 create projects quickly while sacrificing minimum quality. The methods of this module are straightforward, making them easy to 
-remember. These benefits make this module ideal for my purposes.
+remember. These benefits make this module ideal for my purposes. Also, many of the projects contain functions related to sin that
+account for smooth color change. This makes the animations more appealing and pleasing to the eye.
 
 ## Information on specific projects
 

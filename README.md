@@ -4,7 +4,7 @@ Utilizing Python Turtle Graphics to create animation tools and  art
 
 ## Example Screenshots:
 
-![dragon_fractal](https://user-images.githubusercontent.com/120439586/209491265-32c64d57-c7f3-4d73-9042-171abec56b85.png)
+![dragon_fractal2](https://user-images.githubusercontent.com/120439586/209491704-00624f5a-45cc-4b45-bbe4-11592a29402e.png)
 ![piPic](https://user-images.githubusercontent.com/120439586/209491602-7fd83ae9-bd96-4fcd-921a-24c8ad932659.png)
 
 

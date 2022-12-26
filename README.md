@@ -1,5 +1,5 @@
 # Math-Animations
-Utilizing Python Turtle Graphics to create Animation Tools and Art
+Utilizing Python Turtle Graphics to Create Animation Tools and Art
 
 
 ## Example Screenshots:

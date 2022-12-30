@@ -3,7 +3,6 @@ from math import *
 turtle.tracer(0,0)
 def r(theta):
     t = radians(theta)
-    #return 1*(1+0.9*cos(8*t)*(1+0.1*cos(24*t))*(0.9+0.1*cos(200*t))*(1+sin(t)))
     return cos(4*t)
 
 #setup
@@ -17,6 +16,13 @@ screen.screensize(2000,1500)
 screen.bgcolor('Black')
 
 d.color('antique white') #axis
+d.up()
+d.goto(-350, 200)
+d.down()
+d.write('r = cos(4θ)', False, align='left', font = ('arial',28, 'bold'))
+d.up()
+d.home()
+d.down()
 d.forward(1000)
 d.backward(2000)
 d.forward(1000)
